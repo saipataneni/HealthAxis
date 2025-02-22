@@ -1,2 +1,3 @@
 # HealthAxis
-An all-in-one healthcare app that enables seamless communication between patient and doctors with extended features and flexibiity
+An all-in-one healthcare app that enables seamless communication between patient and doctors with extended features and flexibiity. 
+Overall this is an excellent project
